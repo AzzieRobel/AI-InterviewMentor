@@ -10,8 +10,8 @@ Claude Code provides the most integrated experience — skills load natively and
 ## Setup
 
 ```bash
-git clone https://github.com/ps06756/The-Interview-Mentor.git
-cd The-Interview-Mentor
+git clone https://github.com/AzzieRobel/AI-InterviewMentor.git
+cd AI-InterviewMentor
 ```
 
 ## Start an interview
